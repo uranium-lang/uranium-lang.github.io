@@ -16,8 +16,7 @@ $ uranium run hello_world.u
 
 You can also compile it like
 
-```
-bash
+```bash
 $ uranium compile hello_world.u
 $ ./hello_world
 ```
