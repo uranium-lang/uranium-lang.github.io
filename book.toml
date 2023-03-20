@@ -1,0 +1,6 @@
+[book]
+authors = ["Jakob Bowyer"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Uranium Lang"
