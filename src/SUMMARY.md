@@ -9,12 +9,14 @@
 
 - [Language basics](./language/intro.md)
     - [Variables](./language/variables.md)
-	- [Data types](./language/datatypes.md)
+	- [Data Types](./language/datatypes.md)
+    - [Flow Control](./language/flow-control.md)
+    - [Exceptions](./language/exceptions.md)
+    - [Pattern Matching](./language/patterns.md)
     - [Blocks](./language/blocks.md)
     - [Objects?](./languages/objects.md)
-    - [Flow control](./language/flow-control.md)
-    - [Annotations](./language/annotations.md)
     - [Protocols](./language/protocols.md)
+    - [Annotations](./language/annotations.md)
     - [Typing](./language/typing.md)
 
 - [Toolchain](./toolchain/intro.md)
@@ -22,7 +24,7 @@
     - [Building](./build.md)
     - [Dependencies](./dependencies.md)
 
-- [Designs and ideas](./design/intro.md)
+- [Designs and Ideas](./design/intro.md)
 
-- [Weird shit](./weird/intro.md)
+- [Weird Shit](./weird/intro.md)
     - [C Interop](./weird/c-interop.md)

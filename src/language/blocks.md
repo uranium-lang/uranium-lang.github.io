@@ -81,6 +81,20 @@ impl size for type(thing) {
 Type can be any of the data types.
 
 
+## Generator 
+
+_Generator is probably not the final name for this_
+
+Generator has the explicit ability to yield. This allows for lazy execution when it comes to generating sequences and values. _and other fun ideas_
+
+```
+generator thing() {
+    yield x;
+}
+```
+
+
+
 ## Record
 
 Record, otherwise known as a named tuple, or a structure, or any of the other things that match that general idea.
